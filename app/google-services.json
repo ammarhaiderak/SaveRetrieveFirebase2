@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "7742450383",
+    "firebase_url": "https://g2b-designs.firebaseio.com",
+    "project_id": "g2b-designs",
+    "storage_bucket": "g2b-designs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7742450383:android:22f3071a2ed7ab42",
+        "android_client_info": {
+          "package_name": "com.example.ammar.saveretrievefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7742450383-vdbkjinuru43lomjcmc4dmmmfh2qlauq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ammar.saveretrievefirebase",
+            "certificate_hash": "d078a937d5eb71deeed3b06b00ca019798e32b80"
+          }
+        },
+        {
+          "client_id": "7742450383-tcnekcdttd284f57ts120vbdh18l0qls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEZVxdB57ouJcApDznIXLvTaZlUsLab5o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7742450383-tcnekcdttd284f57ts120vbdh18l0qls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7742450383:android:6eeee77f3e4bc47a",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7742450383-tcnekcdttd284f57ts120vbdh18l0qls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEZVxdB57ouJcApDznIXLvTaZlUsLab5o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
