@@ -7,6 +7,8 @@ public class Item {
     String sizem;
     String sizes;
     String imageurl;
+    String price;
+
 
     public Item(){
     //
@@ -14,13 +16,14 @@ public class Item {
 
 
 
-    public Item(String itemname, String itemid, String sizel, String sizem, String sizes, String url) {
+    public Item(String itemname, String itemid, String sizel, String sizem, String sizes, String url,String price) {
         this.itemname = itemname;
         this.itemid = itemid;
         this.sizel = sizel;
         this.sizem = sizem;
         this.sizes = sizes;
         this.imageurl=url;
+        this.price=price;
     }
     public String getImageurl() {
         return imageurl;
